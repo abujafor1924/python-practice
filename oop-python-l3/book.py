@@ -15,9 +15,7 @@ class Book:
               "\nAuthor", self.author,
               "\nPrice", self.price, "Taka")
 
-
 # design Classes
-
 
 
 # =================================================
